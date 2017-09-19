@@ -1,9 +1,16 @@
-## Welcome to my Webpage
-Hi! I am a final (5th) year dual-degree (B.Tech + M.Tech) CSE student at Indian Institute of Technology Madras. 
+## About Me
+Hi! I am a final (5th) year dual-degree (B.Tech + M.Tech) CSE student at [Indian Institute of Technology Madras](https://www.iitm.ac.in/).
 
-### Markdown
+I am a part of the Interactive Intelligence Lab in the [Department of Computer Science & Engineering](http://www.cse.iitm.ac.in/). I am being guided by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/) for my Dual Degree Thesis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dual Degree Thesis
+As part of my Dual Degree Thesis, I am currently working on robust Generative Adversarial Networks that produce realistic samples on multi-manifold datasets. Much of this ongoing work is inspired from the brilliant insights in [Towards Principled Methods for Training GANs](https://arxiv.org/abs/1701.04862).
+
+
+### Contact
+You can reach me at sanchit [dot] agrawal13 [at] gmail [dot] com.
+
+<!--- (
 
 ```markdown
 Syntax highlighted code block
@@ -24,6 +31,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Contact
-You can reach me at sanchit [dot] agrawal13 [at] gmail [dot] com.
+) <-->
