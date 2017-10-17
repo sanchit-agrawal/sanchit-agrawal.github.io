@@ -1,7 +1,7 @@
 ## About Me
 Hi! I am a final (5th) year dual-degree (B.Tech + M.Tech) CSE student at [Indian Institute of Technology Madras](https://www.iitm.ac.in/).
 
-I am a part of the Interactive Intelligence Lab in the [Department of Computer Science & Engineering](http://www.cse.iitm.ac.in/). I am being guided by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/) for my Dual Degree Thesis.
+I am a part of the [Interactive Intelligence Lab](https://rise-iil.github.io/) in the [Department of Computer Science & Engineering](http://www.cse.iitm.ac.in/). I am being guided by [Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/) for my Dual Degree Thesis.
 
 ### Dual Degree Thesis
 As part of my Dual Degree Thesis, I am currently working on robust Generative Adversarial Networks that produce realistic samples on multi-manifold datasets. Much of this ongoing work is inspired from the brilliant insights in [Towards Principled Methods for Training GANs](https://arxiv.org/abs/1701.04862).
